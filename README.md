@@ -9,7 +9,7 @@
 <a href="https://codepen.io/@zeus-max" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@zeus-max" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13484263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13484263" height="30" width="40" /></a>
 <a href="https://medium.com/@bdamianchamel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bdamianchamel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@zigma2825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zigma2825" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@zigma2825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zigma2825" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/enigma_zeus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="enigma_zeus" height="30" width="40" /></a>
 </p>
 
