@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Damian-crypto
-- 👀 I’m interested in Various Design Patterns and algorithms that make applications faster
+- 👀 I’m interested in design patterns and algorithms that make apps efficient
 - 🌱 I’m currently learning computer graphic programming
 - 💞️ I’m looking to collaborate on new technologies
 - 📫 How to reach me: www.damianchamel@gmail.com
